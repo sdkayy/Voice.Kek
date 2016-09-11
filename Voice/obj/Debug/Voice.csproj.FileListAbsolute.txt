@@ -1,0 +1,5 @@
+c:\users\austi\onedrive\documents\visual studio 2015\Projects\Voice\Voice\bin\Debug\Voice.dll
+c:\users\austi\onedrive\documents\visual studio 2015\Projects\Voice\Voice\bin\Debug\Voice.pdb
+c:\users\austi\onedrive\documents\visual studio 2015\Projects\Voice\Voice\obj\Debug\Voice.csprojResolveAssemblyReference.cache
+c:\users\austi\onedrive\documents\visual studio 2015\Projects\Voice\Voice\obj\Debug\Voice.dll
+c:\users\austi\onedrive\documents\visual studio 2015\Projects\Voice\Voice\obj\Debug\Voice.pdb
